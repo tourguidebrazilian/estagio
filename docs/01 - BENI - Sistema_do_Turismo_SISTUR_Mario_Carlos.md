@@ -1,9 +1,13 @@
 **Sistema de Turismo - SISTUREstudo do Turismo face à Moderna Teoria de Sistemas**
 
 Autores: Mário Carlos Beni
+
 Data de publicação: 1990/5/28
+
 Publicações: Revista turismo em análise
+
 Volume 1 - Edição 1 - Páginas 15-34
+
 Fonte: https://revistas.usp.br/rta/article/download/63854/66610 
 
 Descrição
