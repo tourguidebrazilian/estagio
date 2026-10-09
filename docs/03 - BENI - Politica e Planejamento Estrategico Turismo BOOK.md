@@ -1,5 +1,16 @@
 **A Ação do Estado na Estrutura da Administração Pública do Turismo**
 
+Autores: Mário Carlos Beni
+
+Data de publicação: 2006 - Editora Aleph
+
+Fonte: https://www.academia.edu/download/50462795/BENE.pdf
+
+Descrição
+
+Após trinta anos de desenvolvimento, o turismo brasileiro alcançou patamares de elevada qualidade operacional e de planejamento, mas ainda há muitos pontos a serem aperfeiçoados. As políticas públicas são um desses tópicos que precisam ser fortalecidos. O Brasil, com seu tamanho continental e problemas estruturais seculares, apresenta estágios de evolução e complexidade completamente diferenciados no que se refere às políticas públicas em geral, e nas de lazer e turismo em particular. Deve-se considerar que, em nível federal, apenas a partir de 1995, com a gestão profissional do turismo de Caio Luís de Carvalho e, posteriormente, com a criação do ministério do Turismo em 2002, as políticas da área foram bem reestruturadas. Poucos Estados brasileiros possuem políticas consistentes, assim como poucos municípios atingiram níveis de excelência nesse campo.
+Nesse quadro tão diverso e paradoxal (afinal, o país pode ser um grande destino internacional), é fundamental que se compreenda a história e a estrutura das políticas públicas e privadas destinadas ao setor. Conhecer a história recente do Brasil, seus desafios, possibilidades, erros e acertos é essencial para analisar o presente e o futuro desse campo
+
 *Capacidade Institucional para a Gestão do Turismo no Brasil*
 
 Em fins da década de 1980, realizamos uma pesquisa para analisar o desempenho do sistema nacional de turismo instituído na administração pública direta e indireta. A abrangência desse estudo envolveu as instituições públicas de turismo nos níveis federal, estadual e municipal, a fim de identificar diretrizes políticas consideradas essenciais na elaboração de uma Política Nacional de Turismo; evidenciar as principais dificuldades ou obstáculos à ação integrada e intersetorial do sistema institucionalizado de turismo no Brasil; propor um modelo de sistema integrador, ágil e instrumentalizado, capaz de conciliar diversidades territoriais, obtendo assim um melhor equilíbrio regional, além de uma super e infra-estrutura de apoio; bem como promover o desenvolvimento sustentável econômico e social do turismo priorizando os investimentos públicos e orientando os empreendimentos privados.
