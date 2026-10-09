@@ -1,5 +1,15 @@
 **Sistema de Turismo - SISTUREstudo do Turismo face à Moderna Teoria de Sistemas**
 
+Autores: Mário Carlos Beni
+Data de publicação: 1990/5/28
+Publicações: Revista turismo em análise
+Volume 1 - Edição 1 - Páginas 15-34
+Fonte: https://revistas.usp.br/rta/article/download/63854/66610 
+
+Descrição
+
+O tema, objeto deste trabalho, surge da necessidade de se dispor hoje, para o estudo rigoroso, metódico e científico do turismo, de um instrumento de trabalho ágil, dinâmico, abrangente, moderno, simultaneamente setorizado e globalizante. Para encontrá-lo há que se analisar e identificar os múltiplos componentes do fato e do fenômeno do turismo, em suas inter-relações de causa e efeito. Depois, definir e delimitar o campo de estudo do turismo segundo a Teoria dos Sistemas, relacionar sistemas antecedentes, interferentes e controlantes que constituem o ambiente do Sistema de Turismo -SISTUR, e conceituar, estruturar e operacionalizar as variáveis do Sistema para a construção de modelo referencial das relações entre funções e operadores do SISTUR. Os resultados da utilização do SISTUR são de aplicação e interpretação as mais ricas possíveis, já que derivam dos sub-sistemas envolvidos no contexto configurante da atividade do turismo. Permitem, ainda, interferir na gestão e controle dos agentes do turismo para reajustá-lo em decorrência de conjunturas e políticas de expansão, retração ou estagnação da atividade.
+
 *Mário Carlos Beni **
 
 *(*) Professor Doutor do Curso de Turismo da ECA/USP. Membro do Conselho Consultivo da OMT - Organização Mundial de Turismo.Membro do Conselho Diretor e Delegado do Brasil da AMFORT - Associação Internacional de Experts Científicos em Turismo.Rua Bela Cintra, 2060 - 01415 - São Paulo - SP - Brasil.*
